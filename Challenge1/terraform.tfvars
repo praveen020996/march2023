@@ -1,0 +1,12 @@
+resource_group_name = "techchallenge"
+location = "East US"
+vnet_name = "testvnet"
+vnet_cidr = ["10.0.0.0/16"]
+frontend_subnet_cidr = ["10.0.0.0/28"]
+web_subnet_cidr = ["10.0.0.16/28"]
+app_subnet_cidr = ["10.0.0.32/28"]
+db_subnet_cidr = ["10.0.0.48/28"]
+app_gateway_name = "test"
+sql_server_name = "mssqlw6276286"
+vm_password = "Hashirama.Senju12"
+db_password = "Hashirama.Senju12"
