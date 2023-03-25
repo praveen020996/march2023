@@ -17,7 +17,7 @@ The terraform code creates the following resources on Azure:
 - Virtual Machine Scale Set in Web subnet(Backend for Application Gateway)
 - Internal Load Balancer in App Subnet
 - Another Virtual Machine Scale Set in App Subnet(Backend for Internal Load Balancer)
-- SQL server in DB subnet
+- SQL server integrated with DB subnet
 - NSG for each subnet. Only Frontend subnet allows traffic from internet. All other subnets allow traffic only from the upstream subnet
 
 ## How to run
