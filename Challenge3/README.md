@@ -19,6 +19,6 @@ The script prompts for 2 inputs:
 
 Screenshot of a sample run
 
-![Screenshot 2023-03-25 at 3 09 48 PM](https://user-images.githubusercontent.com/42564839/227709651-baf60d3d-9b54-49e0-80a2-90a16e385d21.png)
+![c3 drawio](https://user-images.githubusercontent.com/42564839/227709813-92857424-4da1-458c-9fa6-c8563d2ef423.png)
 
 Note: If the key path is wrong, an exception will be thrown
